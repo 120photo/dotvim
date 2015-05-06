@@ -4,4 +4,4 @@ My vim setup
 ## Install
 ```git clone git@github.com:120photo/dotvim.git .vim```
 ## Setup
-ln -s .vim/vimrc .vimrc
+```ln -s .vim/vimrc .vimrc```
