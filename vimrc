@@ -29,6 +29,11 @@ Plugin 'honza/vim-snippets'
 Plugin 'scrooloose/syntastic'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'kien/ctrlp.vim'
+Plugin "MarcWeber/vim-addon-mw-utils"
+Plugin "tomtom/tlib_vim"
+Plugin "garbas/vim-snipmate"
+
+
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -60,3 +65,10 @@ set hlsearch
 set incsearch
 set title
 syntax on
+set hlsearch
+set incsearch
+set title
+filetype plugin on
+set ignorecase
+set showmatch
+
