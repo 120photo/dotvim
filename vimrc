@@ -71,4 +71,4 @@ set title
 filetype plugin on
 set ignorecase
 set showmatch
-
+colorscheme desert
