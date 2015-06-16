@@ -33,7 +33,7 @@ Plugin 'MarcWeber/vim-addon-mw-utils'
 Plugin 'tomtom/tlib_vim'
 Plugin 'garbas/vim-snipmate'
 Plugin 'scrooloose/nerdcommenter'
-
+Plugin 'elixir-lang/vim-elixir'
 
 
 " All of your Plugins must be added before the following line
@@ -73,3 +73,4 @@ filetype plugin on
 set ignorecase
 set showmatch
 colorscheme desert
+set mouse=niv
